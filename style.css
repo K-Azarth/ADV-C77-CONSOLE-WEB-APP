@@ -1,0 +1,15 @@
+h1 {
+    font-size: 25px;
+    font-family: Verdana;
+    font-style: oblique;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+
+h2 {
+    font-size: 12px;
+    font-family: Comic Sans Ms;
+    font-style: italic;
+    font-weight: 100;
+    font-variant: initial;
+}
